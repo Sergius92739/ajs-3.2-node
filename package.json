@@ -1,0 +1,23 @@
+{
+  "name": "ajs-3.2-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sergius92739/ajs-3.2-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sergius92739/ajs-3.2-node/issues"
+  },
+  "homepage": "https://github.com/Sergius92739/ajs-3.2-node#readme",
+  "dependencies": {
+    "@sergius92739/ajs": "^1.0.0"
+  }
+}
